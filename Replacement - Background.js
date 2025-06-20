@@ -7,4 +7,4 @@ function tema3() {
     } else {
         bg2.style.backgroundColor = " #061327"
     }
-}
+};
