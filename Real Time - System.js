@@ -11,8 +11,8 @@ function ubah() {
         bg.style.backgroundColor = " #191970"
     } else if ( jam >= 1 && jam <= 5 ) {
         bg.style.backgroundColor = " #191970"
-}}
+}};
 
-ubah()
+ubah();
 
-setInterval(ubah, 1000)
+setInterval(ubah, 1000);
